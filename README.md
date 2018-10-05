@@ -1,4 +1,4 @@
-# parser
+# parser goroskopov
 
 ## Инструкция по развертыванию
 
@@ -12,3 +12,6 @@ parser/config/config.php
 
 Запускаем 
 php index.php
+
+##Описание
+
